@@ -25,6 +25,15 @@
 ![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles
 )
 
+### My CV
+
+In Russian (coming soon)
+In English (coming soon)
+
+### Testing Documentation
+
+Coming soon
+
 ### Follow me
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin
