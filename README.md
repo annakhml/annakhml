@@ -1,4 +1,4 @@
-About me
+## I'm a Junior QA Engineer
 
 🔭 I’m currently working on
 
