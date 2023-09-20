@@ -2,7 +2,8 @@
 
 🔭 I’m currently working on
 
-Languages and Tools
+## Languages and Tools
+
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira
 )
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman
