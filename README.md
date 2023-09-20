@@ -1,6 +1,6 @@
-## I'm a Junior QA Engineer
+### I'm a Junior QA Engineer
 
-🔭 I’m currently working on
+🔭 I’m currently working on [Маркетплейс телеграм-ботов для ритейла](https://github.com/Marketplace-of-telegram-bots-for-retail)
 
 ### Languages and Tools
 
