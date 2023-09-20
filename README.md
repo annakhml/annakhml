@@ -34,15 +34,10 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/annakhml/checklists)
-
 - [Test-cases](https://github.com/annakhml/testcases)
-
 - [Bug reports](https://github.com/annakhml/bugreports)
-
 - [SQL Queries](https://github.com/annakhml/SQL-Queries)
-
 - [Postman collections](https://github.com/annakhml/Postman-Collections)
-
 - [Test Plans](https://github.com/annakhml/Test-Plans)
 
 ### Follow me
