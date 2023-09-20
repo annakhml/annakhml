@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-## Languages and Tools
+### Languages and Tools
 
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira
 )
@@ -25,4 +25,7 @@
 ![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles
 )
 
-Follow me
+### Follow me
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin
+)](https://www.linkedin.com/in/anna-khmelevskaya/)
