@@ -27,9 +27,9 @@
 
 ### My CV
 
-- In Russian <img src="https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif" width="30px">
+- In Russian <img src="https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif" width="100px">
 
-- In English <img src="https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif" width="30px">
+- In English <img src="https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif" width="100px">
 
 ### Testing Documentation
 
